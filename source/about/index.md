@@ -35,15 +35,15 @@ master，这里强行安利一首master piece————MY EYES（不知道为�
 
 ## **为什么创建这个博客**
 
-记录学习历程
+- 记录学习历程
 
-分享技术心得
+- 分享技术心得
 
-个人生活感慨
+- 个人生活感慨
 
-记录心路历程
+- 记录心路历程
 
-好玩（这个才是真正的原因）
+- 好玩~~（这个才是真正的原因）~~
 
 
 
@@ -52,10 +52,10 @@ master，这里强行安利一首master piece————MY EYES（不知道为�
 
 ## **联系方式**
 
-GitHub:https://github.com/TravisZhang080406 
+- GitHub:https://github.com/TravisZhang080406 
 
 
-邮箱:3093485617@qq.com
+- 邮箱:3093485617@qq.com
 
 
 
