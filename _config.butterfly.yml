@@ -296,7 +296,7 @@ aside:
       link: https://github.com/TravisZhang080406
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎来到Travis的温馨小窝（bushi），我会在这里分享我的生活见闻，so，say more只是valid，FOLLOWING ME NOW！！！！！！！！
   card_recent_post:
     enable: true
     # If set 0 will show all
