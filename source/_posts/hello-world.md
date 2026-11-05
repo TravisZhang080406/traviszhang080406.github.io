@@ -1,6 +1,6 @@
 ---
 title: BEGIN
-date: 2026 11 5
+date: 2026-11-5 20:28:09
 tags: [技术,成长,博客]
 categories: [生活趣事]
 description: 这个博客是使用GitHub Pages与Hexo搭建而成
